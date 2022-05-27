@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.oracle.tech.challenge.application.service.ValidationServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-05-27T04:58:50" hostname="pramit-mac.local" time="0.091">
+  <properties/>
+  <testcase name="validateBuildRecord_inValid_shouldReturnTrue()" classname="com.oracle.tech.challenge.application.service.ValidationServiceTest" time="0.074"/>
+  <testcase name="validateBuildRecord_valid_shouldReturnTrue()" classname="com.oracle.tech.challenge.application.service.ValidationServiceTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[May 27, 2022 2:58:50 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 6.0.13.Final
+]]></system-err>
+</testsuite>
